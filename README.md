@@ -5,6 +5,14 @@ CoreMark's primary goals are simplicity and providing a method for testing only 
 
 For a more compute-intensive version of CoreMark that uses larger datasets and execution loops taken from common applications, please check out EEMBC's [CoreMark-PRO](https://www.github.com/eembc/coremark-pro) benchmark, also on GitHub.
 
+# About the Atari port
+
+This is a **port for Atari 68k-based computers (such as the ST, STE, TT, Falcon) running the TOS operating system**. 
+
+Download the ready-to-run binary here: https://github.com/czietz/coremark/releases/tag/atari_port
+
+Find results here: https://github.com/czietz/coremark/wiki/Results
+
 # Building and Running
 	
 To build and run the benchmark, type 
